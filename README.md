@@ -59,7 +59,7 @@ New to UI/UX? Jump to [Beginner-Friendly resources](#beginner-friendly-start-her
 
 | Tool | Description | Platform | Pricing |
 |------|-------------|----------|---------|
-| [Adobe XD](https://adobexd.com) | UX design and prototyping tool with Creative Cloud integration | Windows, macOS | Free / Paid |
+| [Adobe XD](https://www.adobe.com/products/xd.html) | UX design and prototyping tool with Creative Cloud integration | Windows, macOS | Free / Paid |
 | [Affinity Designer](https://affinity.serif.com/designer/) | Vector and raster design app for UI and illustration work | macOS, Windows, iPad | One-time |
 | [Canva](https://canva.com) | Graphic design tool for templates and quick mockups | Web, Mobile | Free / Paid |
 | [Figma](https://figma.com) | Collaborative design tool with real-time multiplayer, components, auto-layout, and AI-assisted features | Web, Desktop | Free / Paid |
@@ -155,12 +155,14 @@ New to UI/UX? Jump to [Beginner-Friendly resources](#beginner-friendly-start-her
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [Creatie](https://creatie.ai) | AI-native product design tool with generation capabilities | Free / Paid |
-| [Galileo AI](https://usegalileo.ai) | Generates editable UI designs from text prompts | Paid |
+| [Galileo AI](https://usegalileo.ai) | Generates editable UI designs from text prompts (waitlist access) | Paid |
 | [Locofy](https://locofy.ai) | Converts Figma designs to production-ready frontend code | Free / Paid |
 | [Magician (Figma)](https://magician.design) | AI design copilot plugin for Figma | Paid |
 | [Midjourney](https://midjourney.com) | AI image generation for moodboards, illustrations, and concept art | Paid |
 | [Remove.bg](https://remove.bg) | AI background remover for images | Free / Paid |
 | [Uizard](https://uizard.ai) | AI-powered UI design from screenshots or text descriptions | Free / Paid |
+
+Note: Figma includes AI-assisted features; see [Figma](#-design-tools).
 
 ---
 
@@ -335,6 +337,8 @@ New to UI/UX? Jump to [Beginner-Friendly resources](#beginner-friendly-start-her
 | [Anima](https://animaapp.com) | Converts Figma designs to production-ready HTML/CSS/React | Free / Paid |
 | [Avocode](https://avocode.com) | Design handoff for Figma, Sketch, and XD | Paid |
 | [Zeplin](https://zeplin.io) | Design handoff with specs, styleguides, and flows | Free / Paid |
+
+Note: Figma Dev Mode is included within Figma (see [Design Tools](#-design-tools)).
 
 ---
 
