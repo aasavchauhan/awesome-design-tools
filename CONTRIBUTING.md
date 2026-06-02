@@ -96,8 +96,8 @@ Place the tool in the **most relevant single category**. If a tool fits multiple
 1. **Fork** this repository by clicking the Fork button in the top right
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/awesome-uiux-tools.git
-   cd awesome-uiux-tools
+   git clone https://github.com/YOUR-USERNAME/awesome-design-tools.git
+   cd awesome-design-tools
    ```
 3. **Create a branch** with a descriptive name:
    ```bash
@@ -116,7 +116,7 @@ Place the tool in the **most relevant single category**. If a tool fits multiple
 
 ### Option 2: Open an Issue
 
-If you're not comfortable with Pull Requests, open an issue using the **[Tool Request](https://github.com/yourusername/awesome-uiux-tools/issues/new?template=tool-request.md)** template and fill in all required fields.
+If you're not comfortable with Pull Requests, open an issue using the **[Tool Request](https://github.com/aasavchauhan/awesome-design-tools/issues/new?template=tool-request.md)** template and fill in all required fields.
 
 ---
 
@@ -157,7 +157,7 @@ Before submitting, confirm:
 
 ## Reporting Issues
 
-Use the **[Bug Report](https://github.com/yourusername/awesome-uiux-tools/issues/new?template=bug-report.md)** issue template to report:
+Use the **[Bug Report](https://github.com/aasavchauhan/awesome-design-tools/issues/new?template=bug-report.md)** issue template to report:
 
 - Broken or dead links
 - Incorrect pricing information
@@ -182,7 +182,7 @@ If you believe an entirely new category is needed (not just a new tool):
 
 ## Questions?
 
-Open a [Discussion](https://github.com/yourusername/awesome-uiux-tools/discussions) — we're happy to help before you put effort into a PR.
+Open a [Discussion](https://github.com/aasavchauhan/awesome-design-tools/discussions) — we're happy to help before you put effort into a PR.
 
 ---
 
