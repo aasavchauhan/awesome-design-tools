@@ -62,7 +62,7 @@ New to UI/UX? Jump to [Beginner-Friendly resources](#beginner-friendly-start-her
 | [Adobe XD](https://www.adobe.com/products/xd.html) | UX design and prototyping tool with Creative Cloud integration | Windows, macOS | Free / Paid |
 | [Affinity Designer](https://affinity.serif.com/designer/) | Vector and raster design app for UI and illustration work | macOS, Windows, iPad | One-time |
 | [Canva](https://canva.com) | Graphic design tool for templates and quick mockups | Web, Mobile | Free / Paid |
-| [Figma](https://figma.com) | Collaborative design tool with real-time multiplayer, components, auto-layout, and AI-assisted features | Web, Desktop | Free / Paid |
+| [Figma](https://figma.com) | Collaborative design tool with real-time multiplayer, components, and auto-layout | Web, Desktop | Free / Paid |
 | [Framer](https://framer.com) | Design tool that bridges design and production code | Web | Free / Paid |
 | [Lunacy](https://icons8.com/lunacy) | Free design tool compatible with Sketch files and built-in assets | Windows, macOS, Linux | Free |
 | [Origami Studio](https://origami.design) | Interaction prototyping tool by Meta for complex animations | macOS | Free |
@@ -155,14 +155,14 @@ New to UI/UX? Jump to [Beginner-Friendly resources](#beginner-friendly-start-her
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [Creatie](https://creatie.ai) | AI-native product design tool with generation capabilities | Free / Paid |
-| [Galileo AI](https://usegalileo.ai) | Generates editable UI designs from text prompts (waitlist access) | Paid |
+| [Galileo AI](https://usegalileo.ai) | Generates editable UI designs from text prompts | Paid |
 | [Locofy](https://locofy.ai) | Converts Figma designs to production-ready frontend code | Free / Paid |
 | [Magician (Figma)](https://magician.design) | AI design copilot plugin for Figma | Paid |
 | [Midjourney](https://midjourney.com) | AI image generation for moodboards, illustrations, and concept art | Paid |
 | [Remove.bg](https://remove.bg) | AI background remover for images | Free / Paid |
 | [Uizard](https://uizard.ai) | AI-powered UI design from screenshots or text descriptions | Free / Paid |
 
-Note: Figma includes AI-assisted features; see [Figma](#-design-tools).
+Note: Figma AI is available inside Figma (see Design Tools section).
 
 ---
 
@@ -338,7 +338,7 @@ Note: Figma includes AI-assisted features; see [Figma](#-design-tools).
 | [Avocode](https://avocode.com) | Design handoff for Figma, Sketch, and XD | Paid |
 | [Zeplin](https://zeplin.io) | Design handoff with specs, styleguides, and flows | Free / Paid |
 
-Note: Figma Dev Mode is included within Figma (see [Design Tools](#-design-tools)).
+Note: Figma Dev Mode is included within Figma (see Design Tools section).
 
 ---
 
