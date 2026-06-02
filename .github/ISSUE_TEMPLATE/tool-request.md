@@ -24,7 +24,7 @@ assignees: ""
 <!-- Web / macOS / Windows / iOS / Android / Linux / Cross-platform -->
 
 **Pricing:**
-<!-- Free / Free + Paid / Paid / One-time / Free / Self-hosted -->
+<!-- Free, Free / Paid, Paid, One-time, Free / Self-hosted -->
 
 ---
 
