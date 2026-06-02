@@ -51,7 +51,7 @@
 - **Paid** — subscription or purchase required
 - **One-time** — single license fee
 
-New to UI/UX? See the Beginner-Friendly resources section below to get started.
+New to UI/UX? See the Beginner-Friendly (Start Here) section below to get started.
 
 ## 🎨 Design Tools
 
@@ -103,7 +103,7 @@ New to UI/UX? See the Beginner-Friendly resources section below to get started.
 | [HeroUI](https://heroui.com) | Modern React UI component library | React | Free |
 | [Material Design 3](https://m3.material.io) | Google's open-source design system with official Figma kit | Figma / Web | Free |
 | [Radix UI](https://radix-ui.com) | Unstyled, accessible component primitives for React | React | Free |
-| [shadcn/ui](https://ui.shadcn.com) | Prebuilt components built with Tailwind CSS | Figma / React | Free |
+| [shadcn/ui](https://ui.shadcn.com) | Components built with Tailwind CSS | Figma / React | Free |
 | [UI8](https://ui8.net) | UI kits, design systems, and templates marketplace | Figma, Sketch | Paid |
 | [Untitled UI](https://untitledui.com) | Comprehensive Figma UI kit and design system | Figma | Free / Paid |
 
@@ -125,7 +125,7 @@ New to UI/UX? See the Beginner-Friendly resources section below to get started.
 | [Paletton](https://paletton.com) | Color scheme designer based on color theory rules | Free |
 | [Poline](https://meodai.github.io/poline) | Color palette generator using point-on-line math | Free |
 | [Realtime Colors](https://realtimecolors.com) | Visualize color palettes on real UI in real-time | Free |
-| [Tailwind Palette](https://tailwindcss.com/docs/customizing-colors) | Tailwind's curated color palette for reference | Free |
+| [Tailwind Palette](https://tailwindcss.com/docs/customizing-colors) | Tailwind's default curated color palette for reference | Free |
 
 ---
 
@@ -162,7 +162,7 @@ New to UI/UX? See the Beginner-Friendly resources section below to get started.
 | [Remove.bg](https://remove.bg) | AI background remover for images | Free / Paid |
 | [Uizard](https://uizard.ai) | AI-powered UI design from screenshots or text descriptions | Free / Paid |
 
-Note: Figma AI is available within Figma plans; check Figma's pricing for current availability.
+Note: Figma AI features are available on select Figma plans; check Figma's pricing for current availability.
 
 ---
 
@@ -258,7 +258,7 @@ Note: Figma AI is available within Figma plans; check Figma's pricing for curren
 | [Smartmockups](https://smartmockups.com) | Browser-based mockup generator | Free / Paid |
 | [Squoosh](https://squoosh.app) | Open-source image compression by Google | Free |
 | [SVGator](https://svgator.com) | SVG animation tool without code | Free / Paid |
-| [Unsplash](https://unsplash.com) | Free photos for commercial use | Free |
+| [Unsplash](https://unsplash.com) | High-quality free photos for commercial use | Free |
 
 ---
 
@@ -338,7 +338,7 @@ Note: Figma AI is available within Figma plans; check Figma's pricing for curren
 | [Avocode](https://avocode.com) | Design handoff for Figma, Sketch, and XD | Paid |
 | [Zeplin](https://zeplin.io) | Design handoff with specs, styleguides, and flows | Free / Paid |
 
-Note: Figma Dev Mode is available within Figma paid plans; check Figma's pricing for details.
+Note: Figma Dev Mode is available on Figma paid plans; check Figma's pricing for details.
 
 ---
 
