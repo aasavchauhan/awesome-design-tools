@@ -126,6 +126,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Poline](https://meodai.github.io/poline) | Color palette generator using point-on-line math | Free |
 | [Realtime Colors](https://realtimecolors.com) | Visualize color palettes on real UI in real-time | Free |
 | [Tailwind Palette](https://tailwindcss.com/docs/customizing-colors) | Tailwind's default curated color palette for reference | Free |
+| [TinyTools Color Palette](https://tinytools-smoky.vercel.app/color-palette/) | AI-assisted color palette generator — browser-based, no signup, open source | Free |
 
 ---
 
@@ -258,6 +259,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Squoosh](https://squoosh.app) | Open-source image compression by Google | Free |
 | [SVGator](https://svgator.com) | SVG animation tool without code | Free / Paid |
 | [Unsplash](https://unsplash.com) | High-quality free photos for commercial use | Free |
+| [TinyTools Background Remover](https://tinytools-smoky.vercel.app/background-remover/) | AI background removal running entirely in-browser (ONNX/WASM) — no upload, no signup, open source | Free |
 
 ---
 
