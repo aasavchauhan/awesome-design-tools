@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Lychee link checker output
+lychee/
+
+# Node (if converting to Docusaurus/Next.js later)
+node_modules/
+.next/
+.docusaurus/
+build/
+dist/
+.env
+.env.local
