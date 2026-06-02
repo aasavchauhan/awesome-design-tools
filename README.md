@@ -51,7 +51,7 @@
 - **Paid** — subscription or purchase required
 - **One-time** — single license fee
 
-New to UI/UX? See the Beginner-Friendly (Start Here) section below to get started.
+New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-here) to get started.
 
 ## 🎨 Design Tools
 
@@ -155,14 +155,13 @@ New to UI/UX? See the Beginner-Friendly (Start Here) section below to get starte
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [Creatie](https://creatie.ai) | AI-native product design tool with generation capabilities | Free / Paid |
+| [Figma AI](https://figma.com/ai) | AI features inside Figma for naming, generation, and text assistance (availability varies by plan) | Free / Paid |
 | [Galileo AI](https://usegalileo.ai) | Generates editable UI designs from text prompts | Paid |
 | [Locofy](https://locofy.ai) | Converts Figma designs to production-ready frontend code | Free / Paid |
 | [Magician (Figma)](https://magician.design) | AI design copilot plugin for Figma | Paid |
 | [Midjourney](https://midjourney.com) | AI image generation for moodboards, illustrations, and concept art | Paid |
 | [Remove.bg](https://remove.bg) | AI background remover for images | Free / Paid |
 | [Uizard](https://uizard.ai) | AI-powered UI design from screenshots or text descriptions | Free / Paid |
-
-Note: Figma AI features are available on select Figma plans; check Figma's pricing for current availability.
 
 ---
 
@@ -336,9 +335,8 @@ Note: Figma AI features are available on select Figma plans; check Figma's prici
 |------|-------------|---------|
 | [Anima](https://animaapp.com) | Converts Figma designs to production-ready HTML/CSS/React | Free / Paid |
 | [Avocode](https://avocode.com) | Design handoff for Figma, Sketch, and XD | Paid |
+| [Figma Dev Mode](https://figma.com/dev-mode) | Developer inspection and code view inside Figma | Paid |
 | [Zeplin](https://zeplin.io) | Design handoff with specs, styleguides, and flows | Free / Paid |
-
-Note: Figma Dev Mode is available on Figma paid plans; check Figma's pricing for details.
 
 ---
 
