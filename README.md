@@ -51,7 +51,7 @@
 - **Paid** — subscription or purchase required
 - **One-time** — single license fee
 
-New to UI/UX? Jump to [Beginner-Friendly resources](#beginner-friendly-start-here) to get started.
+New to UI/UX? See the Beginner-Friendly resources section below to get started.
 
 ## 🎨 Design Tools
 
@@ -162,7 +162,7 @@ New to UI/UX? Jump to [Beginner-Friendly resources](#beginner-friendly-start-her
 | [Remove.bg](https://remove.bg) | AI background remover for images | Free / Paid |
 | [Uizard](https://uizard.ai) | AI-powered UI design from screenshots or text descriptions | Free / Paid |
 
-Note: Figma AI is available inside Figma (see Design Tools section).
+Note: Figma AI is available within Figma plans; check Figma's pricing for current availability.
 
 ---
 
@@ -338,7 +338,7 @@ Note: Figma AI is available inside Figma (see Design Tools section).
 | [Avocode](https://avocode.com) | Design handoff for Figma, Sketch, and XD | Paid |
 | [Zeplin](https://zeplin.io) | Design handoff with specs, styleguides, and flows | Free / Paid |
 
-Note: Figma Dev Mode is included within Figma (see Design Tools section).
+Note: Figma Dev Mode is available within Figma paid plans; check Figma's pricing for details.
 
 ---
 
