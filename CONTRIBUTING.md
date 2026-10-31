@@ -153,6 +153,18 @@ Before submitting, confirm:
 - We may ask for edits to the description, pricing, or placement
 - Once approved, your PR will be merged and you'll be credited via GitHub's contributor graph
 
+### After your tool is listed (optional)
+
+Once your tool is merged, you're welcome to celebrate it:
+
+- Add a badge to your project's README:
+
+  ```markdown
+  [![Featured on Awesome UI/UX Tools](https://img.shields.io/badge/Featured%20on-Awesome%20UI%2FUX%20Tools-yellow)](https://github.com/aasavchauhan/awesome-design-tools)
+  ```
+
+- Share your listing with your audience — it helps both your project and this list reach more designers
+
 ---
 
 ## Reporting Issues
