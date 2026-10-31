@@ -353,7 +353,6 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Blobs](https://figma.com/community/plugin/739208439270091369)                   | Generate organic blob shapes                     |
 | [Content Reel](https://figma.com/community/plugin/731627216655469013)            | Pull in real text, images, and icons for designs |
 | [Contrast](https://figma.com/community/plugin/748533339900865323/Contrast)       | WCAG contrast checker within Figma               |
-| [Figma Tokens](https://figma.com/community/plugin/843461159747178978)            | Design token management with GitHub sync         |
 | [Iconify](https://figma.com/community/plugin/735098390272716381)                 | Access 100,000+ icons directly in Figma          |
 | [Lorem ipsum](https://figma.com/community/plugin/736000994034548876/Lorem-ipsum) | Generate placeholder text in your designs        |
 | [Unsplash](https://figma.com/community/plugin/738454987945972471/Unsplash)       | Insert free stock photos directly in Figma       |
