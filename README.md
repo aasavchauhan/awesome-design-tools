@@ -195,6 +195,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 
 | Resource                                           | Description                                                                                              | Pricing     |
 | ----------                                         | -------------                                                                                            | ---------   |
+| [APPLORE](https://applore.app/)                    | Library of 18,000+ real App Store and Google Play app icons, with past icon versions archived            | Free / Paid |
 | [Awwwards](https://awwwards.com)                   | Website design showcase and awards gallery                                                               | Free        |
 | [Behance](https://behance.net)                     | Adobe's portfolio platform for design case studies                                                       | Free        |
 | [Dark Mode Design](https://www.darkmodedesign.com) | Showcase of dark mode website designs                                                                    | Free        |
