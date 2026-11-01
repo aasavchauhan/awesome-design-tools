@@ -80,16 +80,18 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 
 > Tools for mapping flows, wireframing, and building interactive prototypes.
 
-| Tool                               | Description                                                       | Platform       | Pricing     |
-| ------                             | -------------                                                     | ----------     | ---------   |
-| [Axure RP](https://axure.com)      | Advanced wireframing and prototyping with logic and documentation | macOS, Windows | Paid        |
-| [Balsamiq](https://balsamiq.com)   | Low-fidelity, sketch-style wireframing tool                       | Web, Desktop   | Paid        |
-| [Marvel](https://marvelapp.com)    | Simple prototyping, user testing, and handoff tool                | Web, Mobile    | Free / Paid |
-| [Miro](https://miro.com)           | Collaborative whiteboard for workshops, flows, and brainstorming  | Web            | Free / Paid |
-| [Mockflow](https://mockflow.com)   | Online wireframing suite with sitemap and UI flow tools           | Web            | Free / Paid |
-| [Overflow](https://overflow.io)    | User flow diagramming tool that connects design screens           | Web            | Paid        |
-| [ProtoPie](https://protopie.io)    | High-fidelity, sensor-aware prototyping without code              | macOS, Windows | Free / Paid |
-| [Whimsical](https://whimsical.com) | Flowcharts, wireframes, and mind maps in one tool                 | Web            | Free / Paid |
+| Tool                                 | Description                                                         | Platform       | Pricing     |
+| ------                               | -------------                                                       | ----------     | ---------   |
+| [Axure RP](https://axure.com)        | Advanced wireframing and prototyping with logic and documentation   | macOS, Windows | Paid        |
+| [Balsamiq](https://balsamiq.com)     | Low-fidelity, sketch-style wireframing tool                         | Web, Desktop   | Paid        |
+| [Excalidraw](https://excalidraw.com) | Virtual whiteboard for sketching hand-drawn diagrams and wireframes | Web            | Free / Paid |
+| [Marvel](https://marvelapp.com)      | Simple prototyping, user testing, and handoff tool                  | Web, Mobile    | Free / Paid |
+| [Miro](https://miro.com)             | Collaborative whiteboard for workshops, flows, and brainstorming    | Web            | Free / Paid |
+| [Mockflow](https://mockflow.com)     | Online wireframing suite with sitemap and UI flow tools             | Web            | Free / Paid |
+| [Overflow](https://overflow.io)      | User flow diagramming tool that connects design screens             | Web            | Paid        |
+| [ProtoPie](https://protopie.io)      | High-fidelity, sensor-aware prototyping without code                | macOS, Windows | Free / Paid |
+| [tldraw](https://tldraw.com)         | Open-source collaborative whiteboard with polished drawing tools    | Web            | Free / Paid |
+| [Whimsical](https://whimsical.com)   | Flowcharts, wireframes, and mind maps in one tool                   | Web            | Free / Paid |
 
 ---
 
@@ -116,19 +118,20 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 
 > Generate, explore, and manage color palettes and tokens.
 
-| Tool                                                                | Description                                                   | Pricing     |
-| ------                                                              | -------------                                                 | ---------   |
-| [Adobe Color](https://color.adobe.com)                              | Color wheel, palette exploration, and trend library by Adobe  | Free        |
-| [Atmos](https://atmos.style)                                        | Color system builder for design systems and tokens            | Free / Paid |
-| [Colorhunt](https://colorhunt.co)                                   | Curated color palette library with community voting           | Free        |
-| [Coolors](https://coolors.co)                                       | Color scheme generator with export options                    | Free / Paid |
-| [Happy Hues](https://happyhues.co)                                  | Curated color palettes demonstrated on real page layouts      | Free        |
-| [Huemint](https://huemint.com)                                      | AI color palette generator for brands, websites, and graphics | Free        |
-| [Khroma](https://khroma.co)                                         | AI-powered color tool that learns your color preferences      | Free        |
-| [Paletton](https://paletton.com)                                    | Color scheme designer based on color theory rules             | Free        |
-| [Poline](https://meodai.github.io/poline)                           | Color palette generator using point-on-line math              | Free        |
-| [Realtime Colors](https://realtimecolors.com)                       | Visualize color palettes on real UI in real-time              | Free        |
-| [Tailwind Palette](https://tailwindcss.com/docs/customizing-colors) | Tailwind's default curated color palette for reference        | Free        |
+| Tool                                                                | Description                                                     | Pricing     |
+| ------                                                              | -------------                                                   | ---------   |
+| [Adobe Color](https://color.adobe.com)                              | Color wheel, palette exploration, and trend library by Adobe    | Free        |
+| [Atmos](https://atmos.style)                                        | Color system builder for design systems and tokens              | Free / Paid |
+| [Colorhunt](https://colorhunt.co)                                   | Curated color palette library with community voting             | Free        |
+| [Coolors](https://coolors.co)                                       | Color scheme generator with export options                      | Free / Paid |
+| [Happy Hues](https://happyhues.co)                                  | Curated color palettes demonstrated on real page layouts        | Free        |
+| [Huemint](https://huemint.com)                                      | AI color palette generator for brands, websites, and graphics   | Free        |
+| [Khroma](https://khroma.co)                                         | AI-powered color tool that learns your color preferences        | Free        |
+| [Leonardo](https://leonardocolor.io)                                | Open-source color system generator with contrast-aware palettes | Free        |
+| [Paletton](https://paletton.com)                                    | Color scheme designer based on color theory rules               | Free        |
+| [Poline](https://meodai.github.io/poline)                           | Color palette generator using point-on-line math                | Free        |
+| [Realtime Colors](https://realtimecolors.com)                       | Visualize color palettes on real UI in real-time                | Free        |
+| [Tailwind Palette](https://tailwindcss.com/docs/customizing-colors) | Tailwind's default curated color palette for reference          | Free        |
 
 ---
 
@@ -139,6 +142,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | Tool                                      | Description                                         | Pricing   |
 | ------                                    | -------------                                       | --------- |
 | [Archetype](https://archetypeapp.com)     | Design system font pairing and type scale tool      | Free      |
+| [Fontjoy](https://fontjoy.com)            | AI-powered font pairing generator                   | Free      |
 | [Fontpair](https://fontpair.co)           | Curated Google Font pairings with visual previews   | Free      |
 | [Font Squirrel](https://fontsquirrel.com) | Free commercial-use fonts with webfont generator    | Free      |
 | [Fonts In Use](https://fontsinuse.com)    | Real-world typography examples and case studies     | Free      |
@@ -164,7 +168,9 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Magician (Figma)](https://magician.design)    | AI design copilot plugin for Figma                                                                             | Paid        |
 | [Midjourney](https://midjourney.com)           | AI image generation for moodboards, illustrations, and concept art                                             | Paid        |
 | [Remove.bg](https://remove.bg)                 | AI background remover for images                                                                               | Free / Paid |
+| [Relume](https://relume.io)                    | AI site builder generating sitemaps and wireframes for designers                                               | Free / Paid |
 | [Uizard](https://uizard.ai)                    | AI-powered UI design from screenshots or text descriptions                                                     | Free / Paid |
+| [v0](https://v0.dev)                           | Generates React UI components and interfaces from text prompts                                                 | Free / Paid |
 
 ---
 
@@ -180,6 +186,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Humaaans](https://humaaans.com)            | Mix-and-match people illustration library                | Creative Commons | Free        |
 | [Iconify](https://iconify.design)           | Unified icon framework with 150k+ icons from 100+ sets   | Mixed            | Free        |
 | [Lucide](https://lucide.dev)                | Community fork of Feather Icons, consistently maintained | ISC              | Free        |
+| [Noun Project](https://thenounproject.com)  | Vast collection of icons from a global creator community | Mixed            | Free / Paid |
 | [Phosphor Icons](https://phosphoricons.com) | Flexible icon family with 6 weights, 1,000+ icons        | MIT              | Free        |
 | [Storyset](https://storyset.com)            | Customizable illustrations with animation support        | Proprietary      | Free / Paid |
 | [Streamline](https://streamlinehq.com)      | Icon, illustration, and emoji library                    | Proprietary      | Paid        |
@@ -253,16 +260,18 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 
 > Stock photos, mockups, image editing, and optimization.
 
-| Tool                                         | Description                                 | Pricing     |
-| ------                                       | -------------                               | ---------   |
-| [Cleanup.pictures](https://cleanup.pictures) | AI-powered image object removal tool        | Free / Paid |
-| [Ls.graphics](https://ls.graphics)           | Device mockups and scene creators           | Free / Paid |
-| [Pexels](https://pexels.com)                 | Free stock photos and videos                | Free        |
-| [Pixlr](https://pixlr.com)                   | Online photo editor and AI image tools      | Free / Paid |
-| [Smartmockups](https://smartmockups.com)     | Browser-based mockup generator              | Free / Paid |
-| [Squoosh](https://squoosh.app)               | Open-source image compression by Google     | Free        |
-| [SVGator](https://svgator.com)               | SVG animation tool without code             | Free / Paid |
-| [Unsplash](https://unsplash.com)             | High-quality free photos for commercial use | Free        |
+| Tool                                         | Description                                                              | Pricing     |
+| ------                                       | -------------                                                            | ---------   |
+| [Cleanup.pictures](https://cleanup.pictures) | AI-powered image object removal tool                                     | Free / Paid |
+| [Ls.graphics](https://ls.graphics)           | Device mockups and scene creators                                        | Free / Paid |
+| [Pexels](https://pexels.com)                 | Free stock photos and videos                                             | Free        |
+| [Photopea](https://photopea.com)             | Free browser-based image editor with Photoshop-compatible format support | Free        |
+| [Pixlr](https://pixlr.com)                   | Online photo editor and AI image tools                                   | Free / Paid |
+| [Shots](https://shots.so)                    | Browser-based mockup creator for polished product screenshots            | Free / Paid |
+| [Smartmockups](https://smartmockups.com)     | Browser-based mockup generator                                           | Free / Paid |
+| [Squoosh](https://squoosh.app)               | Open-source image compression by Google                                  | Free        |
+| [SVGator](https://svgator.com)               | SVG animation tool without code                                          | Free / Paid |
+| [Unsplash](https://unsplash.com)             | High-quality free photos for commercial use                              | Free        |
 
 ---
 
@@ -270,16 +279,17 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 
 > Tools for gathering insights, running tests, and validating designs.
 
-| Tool                                            | Description                                           | Pricing     |
-| ------                                          | -------------                                         | ---------   |
-| [Hotjar](https://hotjar.com)                    | Heatmaps, session recordings, and feedback surveys    | Free / Paid |
-| [Lookback](https://lookback.com)                | Live and recorded user interview sessions             | Paid        |
-| [Maze](https://maze.co)                         | Rapid usability testing platform                      | Free / Paid |
-| [Optimal Workshop](https://optimalworkshop.com) | Card sorting, tree testing, and first-click testing   | Paid        |
-| [Sprig](https://sprig.com)                      | In-product user research and feedback collection      | Free / Paid |
-| [Typeform](https://typeform.com)                | Conversational forms for user research surveys        | Free / Paid |
-| [Useberry](https://useberry.com)                | User testing with task flows, click maps, and surveys | Free / Paid |
-| [UserTesting](https://usertesting.com)          | On-demand human insights platform                     | Paid        |
+| Tool                                            | Description                                                    | Pricing     |
+| ------                                          | -------------                                                  | ---------   |
+| [Dovetail](https://dovetail.com)                | Research repository for analyzing and organizing user insights | Free / Paid |
+| [Hotjar](https://hotjar.com)                    | Heatmaps, session recordings, and feedback surveys             | Free / Paid |
+| [Lookback](https://lookback.com)                | Live and recorded user interview sessions                      | Paid        |
+| [Maze](https://maze.co)                         | Rapid usability testing platform                               | Free / Paid |
+| [Optimal Workshop](https://optimalworkshop.com) | Card sorting, tree testing, and first-click testing            | Paid        |
+| [Sprig](https://sprig.com)                      | In-product user research and feedback collection               | Free / Paid |
+| [Typeform](https://typeform.com)                | Conversational forms for user research surveys                 | Free / Paid |
+| [Useberry](https://useberry.com)                | User testing with task flows, click maps, and surveys          | Free / Paid |
+| [UserTesting](https://usertesting.com)          | On-demand human insights platform                              | Paid        |
 
 ---
 
@@ -287,15 +297,16 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 
 > Tools for motion design, micro-interactions, and CSS/SVG animation.
 
-| Tool                                        | Description                                             | Pricing     |
-| ------                                      | -------------                                           | ---------   |
-| [Animista](https://animista.net)            | CSS animation playground and generator                  | Free        |
-| [CSS Animation](https://cssanimation.rocks) | CSS animation tutorials and references                  | Free        |
-| [Jitter](https://jitter.video)              | Motion design tool for UI animations and social content | Free / Paid |
-| [LottieFiles](https://lottiefiles.com)      | Lightweight JSON-based animation format and marketplace | Free / Paid |
-| [Motion One](https://motion.dev)            | Modern animation library for the web                    | Free        |
-| [Rive](https://rive.app)                    | Real-time interactive animation tool for apps and games | Free / Paid |
-| [Spline](https://spline.design)             | 3D design tool for web with real-time collaboration     | Free / Paid |
+| Tool                                        | Description                                               | Pricing     |
+| ------                                      | -------------                                             | ---------   |
+| [Animista](https://animista.net)            | CSS animation playground and generator                    | Free        |
+| [CSS Animation](https://cssanimation.rocks) | CSS animation tutorials and references                    | Free        |
+| [GSAP](https://gsap.com)                    | High-performance JavaScript animation library for the web | Free / Paid |
+| [Jitter](https://jitter.video)              | Motion design tool for UI animations and social content   | Free / Paid |
+| [LottieFiles](https://lottiefiles.com)      | Lightweight JSON-based animation format and marketplace   | Free / Paid |
+| [Motion One](https://motion.dev)            | Modern animation library for the web                      | Free        |
+| [Rive](https://rive.app)                    | Real-time interactive animation tool for apps and games   | Free / Paid |
+| [Spline](https://spline.design)             | 3D design tool for web with real-time collaboration       | Free / Paid |
 
 ---
 
