@@ -262,6 +262,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 
 | Tool                                         | Description                                                              | Pricing     |
 | ------                                       | -------------                                                            | ---------   |
+| [AppScreen](https://appscreen.pro)           | App Store and Google Play screenshot editor with device frames           | Free / Paid |
 | [Cleanup.pictures](https://cleanup.pictures) | AI-powered image object removal tool                                     | Free / Paid |
 | [Ls.graphics](https://ls.graphics)           | Device mockups and scene creators                                        | Free / Paid |
 | [Pexels](https://pexels.com)                 | Free stock photos and videos                                             | Free        |
