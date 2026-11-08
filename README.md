@@ -159,18 +159,19 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 
 > AI tools that enhance, automate, or assist the design process.
 
-| Tool                                           | Description                                                                                                    | Pricing     |
-| ------                                         | -------------                                                                                                  | ---------   |
-| [Creatie](https://creatie.ai)                  | AI-native product design tool with generation capabilities                                                     | Free / Paid |
-| [Figma AI](https://figma.com/ai)               | AI features inside Figma for naming, generation, and text assistance (availability varies by plan)             | Free / Paid |
-| [Google Stitch](https://stitch.withgoogle.com) | Generates editable UI designs for mobile and web from text prompts and screenshots, with Figma and code export | Free        |
-| [Locofy](https://locofy.ai)                    | Converts Figma designs to production-ready frontend code                                                       | Free / Paid |
-| [Magician (Figma)](https://magician.design)    | AI design copilot plugin for Figma                                                                             | Paid        |
-| [Midjourney](https://midjourney.com)           | AI image generation for moodboards, illustrations, and concept art                                             | Paid        |
-| [Remove.bg](https://remove.bg)                 | AI background remover for images                                                                               | Free / Paid |
-| [Relume](https://relume.io)                    | AI site builder generating sitemaps and wireframes for designers                                               | Free / Paid |
-| [Uizard](https://uizard.ai)                    | AI-powered UI design from screenshots or text descriptions                                                     | Free / Paid |
-| [v0](https://v0.dev)                           | Generates React UI components and interfaces from text prompts                                                 | Free / Paid |
+| Tool                                           | Description                                                                                                              | Pricing     |
+| ------                                         | -------------                                                                                                            | ---------   |
+| [Creatie](https://creatie.ai)                  | AI-native product design tool with generation capabilities                                                               | Free / Paid |
+| [Figma AI](https://figma.com/ai)               | AI features inside Figma for naming, generation, and text assistance (availability varies by plan)                       | Free / Paid |
+| [Google Stitch](https://stitch.withgoogle.com) | Generates editable UI designs for mobile and web from text prompts and screenshots, with Figma and code export           | Free        |
+| [Imagera](https://imagera.ai)                  | AI studio generating consistent product, character and place visuals across images and short video clips (Character IDs) | Paid        |
+| [Locofy](https://locofy.ai)                    | Converts Figma designs to production-ready frontend code                                                                 | Free / Paid |
+| [Magician (Figma)](https://magician.design)    | AI design copilot plugin for Figma                                                                                       | Paid        |
+| [Midjourney](https://midjourney.com)           | AI image generation for moodboards, illustrations, and concept art                                                       | Paid        |
+| [Remove.bg](https://remove.bg)                 | AI background remover for images                                                                                         | Free / Paid |
+| [Relume](https://relume.io)                    | AI site builder generating sitemaps and wireframes for designers                                                         | Free / Paid |
+| [Uizard](https://uizard.ai)                    | AI-powered UI design from screenshots or text descriptions                                                               | Free / Paid |
+| [v0](https://v0.dev)                           | Generates React UI components and interfaces from text prompts                                                           | Free / Paid |
 
 ---
 
