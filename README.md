@@ -268,6 +268,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Ls.graphics](https://ls.graphics)           | Device mockups and scene creators                                        | Free / Paid |
 | [Pexels](https://pexels.com)                 | Free stock photos and videos                                             | Free        |
 | [Photopea](https://photopea.com)             | Free browser-based image editor with Photoshop-compatible format support | Free        |
+| [Pic2Vector](https://pic2vector.com)         | Free browser-based converter that traces PNG, JPG, and WebP images into SVG | Free        |
 | [Pixlr](https://pixlr.com)                   | Online photo editor and AI image tools                                   | Free / Paid |
 | [Shots](https://shots.so)                    | Browser-based mockup creator for polished product screenshots            | Free / Paid |
 | [Smartmockups](https://smartmockups.com)     | Browser-based mockup generator                                           | Free / Paid |
