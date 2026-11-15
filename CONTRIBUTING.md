@@ -147,6 +147,8 @@ Before submitting, confirm:
 - [ ] The tool is placed in the correct category
 - [ ] My addition maintains the alphabetical or logical order within the section
 
+Pull requests that change `README.md` automatically run the Awesome linter and check links added or updated by the pull request. Both checks should pass before merging.
+
 ### Review Process
 
 - Maintainers will review PRs within **7 days**

@@ -4,9 +4,11 @@
 
 # Awesome UI/UX Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of tools, resources, and workflows for UI/UX designers and product teams.
+A community-maintained directory of UI/UX design tools, resources, and workflows for product designers and teams.
 
 [Contribute](CONTRIBUTING.md) · [Report Issue](https://github.com/aasavchauhan/awesome-design-tools/issues/new/choose) · [Request Tool](https://github.com/aasavchauhan/awesome-design-tools/issues/new?template=tool-request.md)
+
+If this list helps you, please star the repo and share it with your team.
 
 ![GitHub Stars](https://img.shields.io/github/stars/aasavchauhan/awesome-design-tools?style=flat-square&color=yellow)
 ![GitHub Forks](https://img.shields.io/github/forks/aasavchauhan/awesome-design-tools?style=flat-square&color=blue)
@@ -234,7 +236,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Colour & Contrast](https://colourcontrast.cc)                  | Contrast ratio checker with WCAG levels                           | Free        |
 | [Inclusive Components](https://inclusive-components.design)     | Accessible UI patterns with examples                              | Free        |
 | [Stark (Figma Plugin)](https://getstark.co)                     | Accessibility checker directly in Figma                           | Free / Paid |
-| [Tota11y](https://khan.github.io/tota11y/)                      | Accessibility visualization toolkit for web pages                 | Free        |
+| [Tota11y](https://github.com/jdan/tota11y)                      | Accessibility visualization toolkit for web pages                 | Free        |
 | [WAVE](https://wave.webaim.org)                                 | Web accessibility evaluation tool from WebAIM                     | Free        |
 | [WCAG Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/) | Official WCAG quick reference and filterable checklist            | Free        |
 | [Who Can Use](https://whocanuse.com)                            | Shows how color combinations affect users with vision impairments | Free        |
@@ -338,9 +340,6 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 - [Smashing Magazine](https://smashingmagazine.com) - In-depth design and development articles.
 - [UX Collective](https://uxdesign.cc) - Medium publication for UX professionals.
 
-### Communities
-- [Designer Hangout (Slack)](https://www.designerhangout.co) - Large UX community Slack group.
-
 ---
 
 ## 🔧 Developer Handoff
@@ -360,15 +359,14 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 > Helpful plugins for Figma and browser tools.
 
 ### Figma Plugins
-| Plugin                                                                           | Description                                      |
-| --------                                                                         | -------------                                    |
-| [Autoflow](https://figma.com/community/plugin/733902567457592893/Autoflow)       | Draw user flow arrows between frames             |
-| [Blobs](https://figma.com/community/plugin/739208439270091369)                   | Generate organic blob shapes                     |
-| [Content Reel](https://figma.com/community/plugin/731627216655469013)            | Pull in real text, images, and icons for designs |
-| [Contrast](https://figma.com/community/plugin/748533339900865323/Contrast)       | WCAG contrast checker within Figma               |
-| [Iconify](https://figma.com/community/plugin/735098390272716381)                 | Access 100,000+ icons directly in Figma          |
-| [Lorem ipsum](https://figma.com/community/plugin/736000994034548876/Lorem-ipsum) | Generate placeholder text in your designs        |
-| [Unsplash](https://figma.com/community/plugin/738454987945972471/Unsplash)       | Insert free stock photos directly in Figma       |
+| Plugin                                                                     | Description                                      |
+| -------------------------------------------------------------------------- | ------------------------------------------------ |
+| [Autoflow](https://figma.com/community/plugin/733902567457592893/Autoflow) | Draw user flow arrows between frames             |
+| [Blobs](https://figma.com/community/plugin/739208439270091369)             | Generate organic blob shapes                     |
+| [Content Reel](https://figma.com/community/plugin/731627216655469013)      | Pull in real text, images, and icons for designs |
+| [Contrast](https://figma.com/community/plugin/748533339900865323/Contrast) | WCAG contrast checker within Figma               |
+| [Iconify](https://figma.com/community/plugin/735098390272716381)           | Access 100,000+ icons directly in Figma          |
+| [Unsplash](https://figma.com/community/plugin/738454987945972471/Unsplash) | Insert free stock photos directly in Figma       |
 
 ### Browser Extensions
 | Extension                                                                                           | Description                                  |

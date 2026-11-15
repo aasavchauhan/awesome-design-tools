@@ -1,0 +1,39 @@
+name: Link Check (PR)
+
+on:
+  pull_request:
+    paths:
+      - "README.md"
+
+permissions:
+  contents: read
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Extract changed README lines
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          git diff --no-ext-diff --unified=0 "$BASE_SHA" "$HEAD_SHA" -- README.md \
+            | awk '/^\+[^+]/ { sub(/^\+/, ""); print }' > changed-readme.md
+
+      - name: Check links with lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --timeout 20
+            --accept '200..=399,401,403,406,409,429'
+            --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            changed-readme.md
+          format: markdown
+          fail: true
+          failIfEmpty: false
