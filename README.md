@@ -359,14 +359,14 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 > Helpful plugins for Figma and browser tools.
 
 ### Figma Plugins
-| Plugin                                                                           | Description                                      |
-| --------                                                                         | -------------                                    |
-| [Autoflow](https://figma.com/community/plugin/733902567457592893/Autoflow)       | Draw user flow arrows between frames             |
-| [Blobs](https://figma.com/community/plugin/739208439270091369)                   | Generate organic blob shapes                     |
-| [Content Reel](https://figma.com/community/plugin/731627216655469013)            | Pull in real text, images, and icons for designs |
-| [Contrast](https://figma.com/community/plugin/748533339900865323/Contrast)       | WCAG contrast checker within Figma               |
-| [Iconify](https://figma.com/community/plugin/735098390272716381)                 | Access 100,000+ icons directly in Figma          |
-| [Unsplash](https://figma.com/community/plugin/738454987945972471/Unsplash)       | Insert free stock photos directly in Figma       |
+| Plugin | Description |
+| --- | --- |
+| [Autoflow](https://figma.com/community/plugin/733902567457592893/Autoflow) | Draw user flow arrows between frames |
+| [Blobs](https://figma.com/community/plugin/739208439270091369) | Generate organic blob shapes |
+| [Content Reel](https://figma.com/community/plugin/731627216655469013) | Pull in real text, images, and icons for designs |
+| [Contrast](https://figma.com/community/plugin/748533339900865323/Contrast) | WCAG contrast checker within Figma |
+| [Iconify](https://figma.com/community/plugin/735098390272716381) | Access 100,000+ icons directly in Figma |
+| [Unsplash](https://figma.com/community/plugin/738454987945972471/Unsplash) | Insert free stock photos directly in Figma |
 
 ### Browser Extensions
 | Extension                                                                                           | Description                                  |
