@@ -30,7 +30,7 @@ jobs:
             --timeout 20
             --accept '200..=399,401,403,406,409,429'
             --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-            --exclude 'https://www\.awwwards\.com/'
+            --exclude 'https://(www\.)?awwwards\.com/?'
             README.md
           format: markdown
           output: lychee/out.md
