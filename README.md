@@ -275,6 +275,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Smartmockups](https://smartmockups.com)     | Browser-based mockup generator                                           | Free / Paid |
 | [Squoosh](https://squoosh.app)               | Open-source image compression by Google                                  | Free        |
 | [SVGator](https://svgator.com)               | SVG animation tool without code                                          | Free / Paid |
+| [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) | Browser-local background remover, photos never upload, no signup | Free |
 | [Unsplash](https://unsplash.com)             | High-quality free photos for commercial use                              | Free        |
 
 ---
