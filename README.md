@@ -267,6 +267,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | ------                                       | -------------                                                            | ---------   |
 | [AppScreen](https://appscreen.pro)           | App Store and Google Play screenshot editor with device frames           | Free / Paid |
 | [Cleanup.pictures](https://cleanup.pictures) | AI-powered image object removal tool                                     | Free / Paid |
+| [ImagineHero](https://imaginehero.com)       | In-browser Photopea/Photoshop alternative with layers and PSD support    | Free        |
 | [Ls.graphics](https://ls.graphics)           | Device mockups and scene creators                                        | Free / Paid |
 | [Pexels](https://pexels.com)                 | Free stock photos and videos                                             | Free        |
 | [Photopea](https://photopea.com)             | Free browser-based image editor with Photoshop-compatible format support | Free        |
