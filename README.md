@@ -171,6 +171,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Magician (Figma)](https://magician.design)    | AI design copilot plugin for Figma                                                                                       | Paid        |
 | [Midjourney](https://midjourney.com)           | AI image generation for moodboards, illustrations, and concept art                                                       | Paid        |
 | [Remove.bg](https://remove.bg)                 | AI background remover for images                                                                                         | Free / Paid |
+| [Orkas](https://orkas.ai/?source=gh_awdesign) | Turns briefs and screenshots into editable HTML interfaces for review and handoff. | Free / Paid |
 | [Relume](https://relume.io)                    | AI site builder generating sitemaps and wireframes for designers                                                         | Free / Paid |
 | [Uizard](https://uizard.ai)                    | AI-powered UI design from screenshots or text descriptions                                                               | Free / Paid |
 | [v0](https://v0.dev)                           | Generates React UI components and interfaces from text prompts                                                           | Free / Paid |
