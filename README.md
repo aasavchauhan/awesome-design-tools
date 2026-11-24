@@ -126,6 +126,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Atmos](https://atmos.style)                                        | Color system builder for design systems and tokens              | Free / Paid |
 | [Colorhunt](https://colorhunt.co)                                   | Curated color palette library with community voting             | Free        |
 | [Coolors](https://coolors.co)                                       | Color scheme generator with export options                      | Free / Paid |
+| [Free Color Picker](https://free-color-picker.web-free.site/)        | HEX, RGB, HSL, and OKLCH color converter that runs in the browser | Free        |
 | [Happy Hues](https://happyhues.co)                                  | Curated color palettes demonstrated on real page layouts        | Free        |
 | [Huemint](https://huemint.com)                                      | AI color palette generator for brands, websites, and graphics   | Free        |
 | [Khroma](https://khroma.co)                                         | AI-powered color tool that learns your color preferences        | Free        |
