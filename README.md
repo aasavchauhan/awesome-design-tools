@@ -290,6 +290,7 @@ New to UI/UX? Jump to [Beginner-Friendly (Start Here)](#beginner-friendly-start-
 | [Lookback](https://lookback.com)                | Live and recorded user interview sessions                      | Paid        |
 | [Maze](https://maze.co)                         | Rapid usability testing platform                               | Free / Paid |
 | [Optimal Workshop](https://optimalworkshop.com) | Card sorting, tree testing, and first-click testing            | Paid        |
+| [QuestionPunk](https://www.questionpunk.com)    | Surveys and AI interviews that ask follow-ups by voice or text | Free / Paid |
 | [Sprig](https://sprig.com)                      | In-product user research and feedback collection               | Free / Paid |
 | [Typeform](https://typeform.com)                | Conversational forms for user research surveys                 | Free / Paid |
 | [Useberry](https://useberry.com)                | User testing with task flows, click maps, and surveys          | Free / Paid |
